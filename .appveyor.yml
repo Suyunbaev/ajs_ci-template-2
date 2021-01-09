@@ -15,4 +15,3 @@ build: off
 
 test_script:
   - npm run lint && npm test # скрипт сборки
-69
